@@ -1,9 +1,8 @@
 # AirBnB clone - Web static
 
-![web-static](https://user-images.githubusercontent.com/59466195/184797105-53103cc3-947e-41b2-ae09-3fe99c11204a.PNG)
 
 ## Link to deployed page:
-This is the link to the github [deployed web  page](https://ayobamy.github.io/AirBnB_clone/web_static/103-index.html)
+This is the link to the github [deployed web  page](https://mukkhieyo.github.io/AirBnB_clone/web_static/103-index.html)
 
 # Background Context
 ## Web static, what?
