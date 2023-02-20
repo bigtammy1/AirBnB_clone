@@ -1,8 +1,7 @@
 # AirBnB clone - Web static
 
 
-## Link to deployed page:
-This is the link to the github [deployed web  page](https://mukkhieyo.github.io/AirBnB_clone/web_static/103-index.html)
+
 
 # Background Context
 ## Web static, what?
